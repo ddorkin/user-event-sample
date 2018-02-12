@@ -1,4 +1,6 @@
 # user-event-sample
+
+There is backend part of application which is positioned as calendar of user events.
 Steps to launch application:
 1. Intall npm manager.
 2. Intall postgresql.
